@@ -1,0 +1,9 @@
+# JFROG related
+export JFROG_USER="JFROG_USER"
+export JFROG_PASSWORD="JFROG_PASSWORD"
+export JFROG_REGISTRY="JFROG_REGISTRY"
+
+
+#GO
+export GOPATH=~/go/
+

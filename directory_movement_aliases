@@ -1,0 +1,5 @@
+# Directory movement aliases
+alias cb="cd /home/user/codebase"
+alias dls="cd /home/user/Downloads"
+alias cli="/your/favourite/cli"
+
